@@ -1,5 +1,5 @@
 # deep_learning_exercise
-assignment in Udacity Deep Learning
+assignment in Udacity Deep Learning, in TensorFlow
 
 ## A1: Introduction
 
